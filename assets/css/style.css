@@ -132,7 +132,15 @@ form button:hover {
 .sub-lista {
   text-align: center;
   margin: auto;
-  }
+}
+.bad {
+  background: rgb(192, 84, 84);
+  padding: auto;
+}
+.paragrafo-resultado {
+  background: rgb(87, 189, 87);
+  
+}
 
 @media (max-width: 667px) {
   .top-line .container .form .container-lista  {
